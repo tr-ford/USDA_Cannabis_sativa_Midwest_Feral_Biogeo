@@ -1,1 +1,1 @@
-# USDA_Cannabis_sativa_Midwest_Feral_Biogeo
+# USDA Cannabis sativa Midwest Feral Ecological Niche Modeling Scripts
